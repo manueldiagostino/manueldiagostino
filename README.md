@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🧑‍🎓 My name is Manuel and I'm a Computer Science student at the University of Parma.
+- 🐧 I'm interested in Linux and the concept of free-software. Take a look at my [Linux-rice](https://github.com/manueldiagostino/wayland_dotfiles)!
 
 <!--
 **manueldiagostino/manueldiagostino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
