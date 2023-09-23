@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🧑‍🎓 My name is Manuel and I'm a Computer Sciences student at the University of Parma.
+- 🧑‍🎓 My name is Manuel and I'm a Computer Science student at the University of Parma.
 - 🐧 I'm interested in Linux and the concept of free-software. Take a look at my [Linux-rice](https://github.com/manueldiagostino/wayland_dotfiles)!
 
 <!--
