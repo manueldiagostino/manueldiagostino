@@ -18,8 +18,8 @@
 ## Stats
 
 <p align="center">
-    <img align="center" width="49%" height="155px" src="https://github-readme-stats.vercel.app/api?username=manueldiagostino&show_icons=true&theme=radical" />
-    <img align="center" width="49%" height="200px" src="https://streak-stats.demolab.com/?user=manueldiagostino&theme=radical" />
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=manueldiagostino&show_icons=true&theme=radical" />
+    <img align="center" width="49%" src="https://streak-stats.demolab.com/?user=manueldiagostino&theme=radical" />
 </p>
 
 
