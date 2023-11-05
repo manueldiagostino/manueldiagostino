@@ -1,11 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=manueldiagostino&style=for-the-badge&color=CA3876)
 
-<div>
+<div style="text-align: right;">
     <p 
-        style="text-align: right; 
+        style="
+        text-align: right; 
         font-family: monospace;
-        font-size: 15px
-    "> "Non ho particolari talenti, sono soltanto appassionatamente curioso". <br>Albert Einstein
+        font-size: 15px;"
+        align="right"> "Non ho particolari talenti, sono soltanto appassionatamente curioso". <br>Albert Einstein
     </p>
 </div>
 
