@@ -16,7 +16,11 @@
 - ⚛ I'm currently collaborating on [universita](https://github.com/merendamattia/universita)
 
 ## Stats
-[![MyStats](https://github-readme-stats.vercel.app/api?username=manueldiagostino&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=manueldiagostino&theme=radical)](https://git.io/streak-stats)
+
+<p align="center">
+    <img align="center" width="49%" height="155px" src="https://github-readme-stats.vercel.app/api?username=manueldiagostino&show_icons=true&theme=radical" />
+    <img align="center" width="49%" height="200px" src="https://streak-stats.demolab.com/?user=manueldiagostino&theme=radical" />
+</p>
 
 
 ## Contacts
