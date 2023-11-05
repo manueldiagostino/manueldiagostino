@@ -7,8 +7,7 @@
 <table style="
     border-collapse: collapse;
     border: none;
-    width: 300px"> 
-<tr style="padding: 0; margin: 0; border:none;">
+    width: 300px"> <tr style="padding: 0; margin: 0; border:none;">
     <td style="border: none;"> <a href="https://instagram.com/manuel.diagostino?igshid=NzZlODBkYWE4Ng==">
         <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white">
     </a> </td>
