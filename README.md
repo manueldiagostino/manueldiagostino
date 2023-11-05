@@ -1,23 +1,17 @@
+![](https://komarev.com/ghpvc/?username=manueldiagostino&style=for-the-badge&color=CA3876)
+
 # Hi there 👋
 - 🧑‍🎓 My name is Manuel and I'm a Computer Science student at the University of Parma.
 - 🐧 I'm interested in Linux and the concept of free-software. Take a look at my [Linux-rice](https://github.com/manueldiagostino/wayland_dotfiles)!
 
-## Contacts
+## Stats
+[![MyStats](https://github-readme-stats.vercel.app/api?username=manueldiagostino&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<table style="
-    border-collapse: collapse;
-    border: none;
-    width: 300px"> <tr style="padding: 0; margin: 0; border:none;">
-    <td style="border: none;"> <a href="https://instagram.com/manuel.diagostino?igshid=NzZlODBkYWE4Ng==">
-        <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white">
-    </a> </td>
-    <td style="border: none;"> <a href="mailto:diagostinomanuel@gmail.com">
-        <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-    </a> </td>
-    <td style="border: none;"> <a href="https://paypal.me/manueldiagostino?country.x=IT&locale.x=it_IT">
-        <img alt="Static Badge" src="https://img.shields.io/badge/buy_me_a_coffee-%233558C1?style=for-the-badge&logo=paypal&link=https%3A%2F%2Fpaypal.me%2Fmanueldiagostino%3Fcountry.x%3DIT%26locale.x%3Dit_IT">
-    </a> </td>
-</tr></table>
+
+## Contacts
+[![Static Badge](https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Fmanuel.diagostino)](https://instagram.com/manuel.diagostino)
+[![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Adiagostinomanuel%40gmail.com)](mailto:diagostinomanuel@gmail.com)
+[![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-%233558C1?style=for-the-badge&logo=paypal&link=https%253A%252F%252Fpaypal.me%252Fmanueldiagostino%253Fcountry.x%253DIT%2526locale.x%253Dit_IT)](https%253A%252F%252Fpaypal.me%252Fmanueldiagostino%253Fcountry.x%253DIT%2526locale.x%253Dit_IT)
 
 
 <!--
