@@ -1,8 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=manueldiagostino&style=for-the-badge&color=CA3876)
 
+<div>
+    <p 
+        style="text-align: right; 
+        font-family: monospace;
+        font-size: 15px
+    "> "Non ho particolari talenti, sono soltanto appassionatamente curioso". <br>Albert Einstein
+    </p>
+</div>
+
 # Hi there 👋
-- 🧑‍🎓 My name is Manuel and I'm a Computer Science student at the University of Parma.
+- 🧑‍🎓 My name is Manuel and I'm a Computer Science student at the University of Parma
 - 🐧 I'm interested in Linux and the concept of free-software. Take a look at my [Linux-rice](https://github.com/manueldiagostino/wayland_dotfiles)!
+- ⚛ I'm currently collaborating on [universita](https://github.com/merendamattia/universita)
 
 ## Stats
 [![MyStats](https://github-readme-stats.vercel.app/api?username=manueldiagostino&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
