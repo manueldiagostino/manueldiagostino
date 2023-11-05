@@ -6,7 +6,7 @@
         text-align: right; 
         font-family: monospace;
         font-size: 15px;"
-        align="right"> "Non ho particolari talenti, sono soltanto appassionatamente curioso". <br>Albert Einstein
+        align="right"> "I have no special talent. I am only passionately curious".<br>Albert Einstein
     </p>
 </div>
 
