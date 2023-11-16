@@ -27,7 +27,7 @@
 ## Contacts
 [![Static Badge](https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Fmanuel.diagostino)](https://instagram.com/manuel.diagostino)
 [![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Adiagostinomanuel%40gmail.com)](mailto:diagostinomanuel@gmail.com)
-[![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-%233558C1?style=for-the-badge&logo=paypal&link=https%253A%252F%252Fpaypal.me%252Fmanueldiagostino%253Fcountry.x%253DIT%2526locale.x%253Dit_IT)](https%253A%252F%252Fpaypal.me%252Fmanueldiagostino%253Fcountry.x%253DIT%2526locale.x%253Dit_IT)
+[![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-%233558C1?style=for-the-badge&logo=paypal&link=https%253A%252F%252Fpaypal.me%252Fmanueldiagostino%253Fcountry.x%253DIT%2526locale.x%253Dit_IT)](https://paypal.me/manueldiagostino?country.x=IT&locale.x=it_IT)
 
 
 <!--
