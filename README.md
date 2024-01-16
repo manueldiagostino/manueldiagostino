@@ -13,7 +13,7 @@
 # Hi there 👋
 - 🧑‍🎓 My name is Manuel and I'm a Computer Science student at the University of Parma
 - 🐧 I'm interested in Linux and the concept of free-software. Take a look at my [Linux-rice](https://github.com/manueldiagostino/wayland_dotfiles)!
-- ⚙️ I'm currently collaborating on [universita](https://github.com/merendamattia/universita)
+- ⚙️ Founder&Mainteiner of [unipr-org](https://github.com/unipr-org)
 - 🧮 Probability formulary [[docsity.com](https://www.docsity.com/it/formulario-completo-fronte-retro-ideale-per-esami-di-elementi-di-probabilita-e-statistica/9447482/?utm_source=generic&utm_medium=button&utm_campaign=document_share), [skuola.net](https://www.skuola.net/universita/formulari/formulario-completo-fronte-retro-ideale-per-esami-di-elementi-di-probabilita-e-statistica-1)]
 
 ## Stats
