@@ -12,7 +12,7 @@
 
 # Hi there 👋
 - 🧑‍🎓 My name is Manuel and I'm a Computer Science student at the University of Parma
-- 🐧 I'm interested in Linux and the concept of free-software. Take a look at my [Linux-rice](https://github.com/manueldiagostino/wayland_dotfiles)!
+- 🐧 I'm interested in Linux and the concept of free-software. Take a look at my [Linux-rice](https://github.com/manueldiagostino/.dotfiles)!
 - ⚙️ Founder&Maintainer of [unipr-org](https://github.com/unipr-org)
 - 🧮 Probability formulary [here](https://manueldiagostino.github.io/files/formulario.pdf)
 
