@@ -16,19 +16,22 @@
 - ⚙️ Founder&Maintainer of [unipr-org](https://github.com/unipr-org)
 - 🧮 Probability formulary [here](https://manueldiagostino.github.io/files/formulario.pdf)
 
-## Stats
+## 📊 GitHub Stats
 
 <p align="center">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=manueldiagostino&show_icons=true&theme=radical" />
-    <img align="center" width="49%" src="https://streak-stats.demolab.com/?user=manueldiagostino&theme=radical" />
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=manueldiagostino&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img align="center" width="48%" src="https://streak-stats.demolab.com/?user=manueldiagostino&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueldiagostino&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ## Contacts
 [![Static Badge](https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Fmanuel.diagostino)](https://instagram.com/manuel.diagostino)
 [![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Adiagostinomanuel%40gmail.com)](mailto:diagostinomanuel@gmail.com)
+[![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Fin%2Fyour-profile)](https://www.linkedin.com/in/manueldiagostino)
 [![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-%233558C1?style=for-the-badge&logo=paypal&link=https%253A%252F%252Fpaypal.me%252Fmanueldiagostino%253Fcountry.x%253DIT%2526locale.x%253Dit_IT)](https://paypal.me/manueldiagostino?country.x=IT&locale.x=it_IT)
-
 
 <!--
 ## Buy me a coffee!
