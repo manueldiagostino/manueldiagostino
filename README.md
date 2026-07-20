@@ -11,14 +11,14 @@
 </div>
 
 # Hi there 👋
-- 🧑‍🎓 My name is Manuel and I'm a Computer Science student at the University of Parma
+- 🧑‍🎓 My name is Manuel, I hold an MSc in Computer Science from the University of Parma, and I'm currently applying for PhD positions in Italy
 - 🐧 I'm interested in Linux and the concept of free-software. Take a look at my [Linux-rice](https://github.com/manueldiagostino/.dotfiles)!
 - ⚙️ Founder&Maintainer of [unipr-org](https://github.com/unipr-org)
 - 🧮 Probability formulary [here](https://manueldiagostino.github.io/files/formulario.pdf)
 
 <div align="center">
     
-<a href="">![GitHub Stats](https://github-stats-extended.vercel.app/api?username=manueldiagostino&hide_title=true&show_icons=true&theme=github_dark_dimmed))</a>
+<a href="">![GitHub Stats](https://github-stats-extended.vercel.app/api?username=manueldiagostino&hide_title=true&show_icons=true&theme=github_dark_dimmed)</a>
 
 <a href="">![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manueldiagostino&theme=github)</a>
 </div>
