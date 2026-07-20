@@ -16,6 +16,14 @@
 - ⚙️ Founder&Maintainer of [unipr-org](https://github.com/unipr-org)
 - 🧮 Probability formulary [here](https://manueldiagostino.github.io/files/formulario.pdf)
 
+<div align="center">
+    
+<a href="">![GitHub Stats](https://github-stats-extended.vercel.app/api?username=manueldiagostino&hide_title=true&show_icons=true&theme=github_dark_dimmed))</a>
+
+<a href="">![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manueldiagostino&theme=github)</a>
+</div>
+
+
 ## Contacts
 [![Static Badge](https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Fmanuel.diagostino)](https://instagram.com/manuel.diagostino)
 [![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Adiagostinomanuel%40gmail.com)](mailto:diagostinomanuel@gmail.com)
