@@ -20,7 +20,6 @@
     
 <a href="">![GitHub Stats](https://github-stats-extended.vercel.app/api?username=manueldiagostino&hide_title=true&show_icons=true&theme=github_dark_dimmed)</a>
 
-#<a href="">![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manueldiagostino&theme=github)</a>
 </div>
 
 
